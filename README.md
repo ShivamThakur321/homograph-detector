@@ -10,5 +10,7 @@ A simple Python tool to detect **homograph attacks** (lookalike domain names) by
 ### 📦 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/homograph-detector.git
+git clone https://github.com/ShivamThakur321/homograph-detector.git
+
+```bash
 cd homograph-detector
