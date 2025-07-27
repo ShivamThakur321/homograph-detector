@@ -19,3 +19,11 @@ A simple Python-based tool to detect **homograph attacks** — where malicious d
    ```bash
    git clone https://github.com/yourusername/homograph-detector.git
    cd homograph-detector
+
+## Usage
+2. Run the python file
+   ```bash
+   python3 homograph_guard.py
+
+3. Enter Your Domain name Which you want to check
+
